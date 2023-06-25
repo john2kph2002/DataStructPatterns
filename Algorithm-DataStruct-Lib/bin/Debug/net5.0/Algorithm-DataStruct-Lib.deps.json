@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Algorithm-DataStruct-Lib/1.0.0": {
+        "runtime": {
+          "Algorithm-DataStruct-Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algorithm-DataStruct-Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

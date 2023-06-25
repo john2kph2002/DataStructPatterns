@@ -1,0 +1,12 @@
+C:\Users\jcabili\Desktop\testC#\DataStruct\Algorithm-DataStruct-Lib\bin\Debug\net5.0\Algorithm-DataStruct-Lib.deps.json
+C:\Users\jcabili\Desktop\testC#\DataStruct\Algorithm-DataStruct-Lib\bin\Debug\net5.0\Algorithm-DataStruct-Lib.dll
+C:\Users\jcabili\Desktop\testC#\DataStruct\Algorithm-DataStruct-Lib\bin\Debug\net5.0\ref\Algorithm-DataStruct-Lib.dll
+C:\Users\jcabili\Desktop\testC#\DataStruct\Algorithm-DataStruct-Lib\bin\Debug\net5.0\Algorithm-DataStruct-Lib.pdb
+C:\Users\jcabili\Desktop\testC#\DataStruct\Algorithm-DataStruct-Lib\obj\Debug\net5.0\Algorithm-DataStruct-Lib.csproj.AssemblyReference.cache
+C:\Users\jcabili\Desktop\testC#\DataStruct\Algorithm-DataStruct-Lib\obj\Debug\net5.0\Algorithm-DataStruct-Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcabili\Desktop\testC#\DataStruct\Algorithm-DataStruct-Lib\obj\Debug\net5.0\Algorithm-DataStruct-Lib.AssemblyInfoInputs.cache
+C:\Users\jcabili\Desktop\testC#\DataStruct\Algorithm-DataStruct-Lib\obj\Debug\net5.0\Algorithm-DataStruct-Lib.AssemblyInfo.cs
+C:\Users\jcabili\Desktop\testC#\DataStruct\Algorithm-DataStruct-Lib\obj\Debug\net5.0\Algorithm-DataStruct-Lib.csproj.CoreCompileInputs.cache
+C:\Users\jcabili\Desktop\testC#\DataStruct\Algorithm-DataStruct-Lib\obj\Debug\net5.0\Algorithm-DataStruct-Lib.dll
+C:\Users\jcabili\Desktop\testC#\DataStruct\Algorithm-DataStruct-Lib\obj\Debug\net5.0\ref\Algorithm-DataStruct-Lib.dll
+C:\Users\jcabili\Desktop\testC#\DataStruct\Algorithm-DataStruct-Lib\obj\Debug\net5.0\Algorithm-DataStruct-Lib.pdb

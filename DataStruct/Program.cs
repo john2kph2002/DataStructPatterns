@@ -1,9 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using Algorithm_DataStruct_Lib;
 using DataStruct.Pattern;
 using DataStruct.SortAlgorithm;
+using DataStruct.Statck;
 
 namespace DataStruct
 {
@@ -13,6 +15,21 @@ namespace DataStruct
         {
             //var watch = new Stopwatch();
             //watch.Start();
+
+            var stack = new Stack<int>();
+            stack.Push(1);
+            stack.Push(2);
+            stack.Push(3);
+            stack.Push(4);
+
+            Console.WriteLine($"Should print out 4:{stack.Peek()}");
+            stack.Pop();
+            Console.WriteLine($"Should print out 3:{stack.Peek()}");
+            Console.WriteLine($"Iterate over the stack.");
+            foreach (var cur in stack)
+            {
+                Console.WriteLine(cur);
+            }
 
             //var ints = In.ReadInts("files\\1Kints.txt").ToArray();
             //var triplets = ThreeSum.Count(ints);
@@ -92,8 +109,8 @@ namespace DataStruct
             //DuplicateString duplicate = new DuplicateString();
             //duplicate.print();
 
-            RemoveDuplicateString remove = new RemoveDuplicateString();
-            remove.print();
+            //RemoveDuplicateString remove = new RemoveDuplicateString();
+            //remove.print();
 
             //watch.Stop();
             //Console.WriteLine($"Execution Time: {watch.Elapsed:g} ms");
